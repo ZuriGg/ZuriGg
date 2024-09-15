@@ -38,6 +38,5 @@
 ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Estadisticas
-![ZuriGg' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuriGg&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuriGg&layout=compact&theme=dark)
+
 
