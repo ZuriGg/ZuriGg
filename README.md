@@ -1,4 +1,4 @@
-![Banner de ZuriGg](BannerDeGitHub.png)
+![Banner de ZuriGg](BannerGitHub.png)
 
 # Full-stack Web Developer
 
